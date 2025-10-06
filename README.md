@@ -1,7 +1,10 @@
 # Verkefni 3 – Sýn og umfang  
 
-Þetta repo er Template repo - Notaðu "Use this template" til að búa til þitt eigið repo
-fyrir verkefni 3. Uppfærðu þetta README skjal til að lýsa repo-inu þínu 
+Þetta er safn (repository ) fyrir drög að lausn á verkefni 3. Efni verkefnisins er að skrifaKerfið sem er tekið fyrir í þessu
+Sýn og umfang kerfisins. 
+
+verkefni er COS kerfið en það er mötuneytispöntunarkerfi. Áður hafði verið skrifuð lausn fyrir 
+fyrsta og annað verkefnið sem eru í safni hvannberg/HBV301G-COS og hvannberg/HBV301G-COS-2
 
 Þessi mappa inniheldur efnið sem beðið er um í verkefninu.
 

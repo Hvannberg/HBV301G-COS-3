@@ -81,14 +81,27 @@ have to go to the cafeteria to get their meals, which will save them time and wi
 ### 2.1 Helstu fídusar
 
 
-### 2.2 Umfang fyrstu útgáfu
-*(Skrifaðu þennan kafla )*
+FE-1:	Order and pay for meals from the cafeteria menu to be picked up or delivered.
+FE-2:	Order and pay for meals from local restaurants to be delivered.
+FE-3:	Create, view, modify, and cancel meal subscriptions for standing or recurring meal orders, or for daily special meals.
+FE-4:	Create, view, modify, delete, and archive cafeteria menus.
+FE-5:	View ingredient lists and nutritional information for cafeteria menu items.
+FE-6:	Provide system access through corporate intranet, smartphone, tablet, and outside Internet access by authorized employees
 
-[Describe the intended major features that will be included in the initial release of the product. 
-Consider the benefits the product is intended to bring to the various customer communities, and generally describe the 
-product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to 
-include every possible feature that any potential customer category might conceivably want some day.
-Focus on those features and product characteristics  that will provide the most value, at the most acceptable development cost, to the broadest community]
+[Mynd Feature tree ](myndir/FeatureTree.png)
+
+### 2.2 Umfang fyrstu útgáfu
+
+# Feature Comparison by Release
+
+| Feature | Release 1 | Release 2 | Release 3 |
+|----------|------------|------------|------------|
+| **FE-1, Order from cafeteria** | Standard meals from lunch menu only; meal orders for delivery can be paid for only by payroll deduction | Accept credit and debit card payments | Accept meal orders for breakfasts and suppers |
+| **FE-2, Order from restaurants** | Not implemented | Delivery to campus locations only | Fully implemented |
+| **FE-3, Meal subscriptions** | Not implemented | Implemented if time permits | Fully implemented |
+| **FE-4, Menus** | Create and view menus | Modify, delete, and archive menus |  |
+| **FE-5, Ingredient lists** | Not implemented | Fully implemented |  |
+| **FE-6, System access** | Intranet and outside Internet access | iOS and Android phone and tablet apps | Windows Phone and tablet apps |
 
 ### 2.3 Takmarkanir og útilokanir
 

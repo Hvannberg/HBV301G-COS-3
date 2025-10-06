@@ -147,7 +147,12 @@ Hver lína í töflunni samsvarar tag (merki) sem hefur verið sett í Git repos
 <!-- GIT_HISTORY_START -->
 | Author | Date       | Message | Commit |
 |--------|------------|---------|--------|
-| Ebba Þóra Hvannberg | 2025-09-08 | fyrsta útgáfa og Revision history gert sjálfvirkt | 5b39409 |
+| Ebba Þóra Hvannberg | 2025-10-06 | Kafli 3.1 Einnig heiti kerfis og höfundur | c70a6e4 |
+| Ebba Þóra Hvannberg | 2025-10-06 | Kaflar 2.1 og 2.2 | ae7212c |
+| Ebba Þóra Hvannberg | 2025-10-06 | Kafli 2.1 Umfang fyrstu útgáfu Sjá issue  #4 | bafecee |
+| Ebba Þóra Hvannberg | 2025-10-06 | Kafli 1.5 Vision Statement - Framtíðarsýn | b844b70 |
+| Ebba Þóra Hvannberg | 2025-10-06 | Kafli 1.3. Viðskiptamarkmið #2 | d90a0f0 |
+| Ebba Þóra Hvannberg | 2025-10-06 | Initial commit | 517e310 |
 
 <!-- GIT_HISTORY_END -->
 

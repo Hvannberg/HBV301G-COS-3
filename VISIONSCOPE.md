@@ -1,10 +1,10 @@
 # Sýn og Afmörkun 
 
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur 0, Ebba Þóra Hvannberg
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Cafeteria and Ordering system (COS)
 
 
 ## Efnisyfirlit 
@@ -109,21 +109,15 @@ FE-6:	Provide system access through corporate intranet, smartphone, tablet, and 
 ---
 
 ## 3. Samhengi viðskipta
-### 3.1 Prófílar forgangs hagsmunaaðila 
-*(Skrifaðu þennan kafla )*
+### 3.1 Prófílar forgangs hagsmunaaðila
 
-[ Stakeholders are individuals, groups, or organizations that are actively involved in a project, are affected by its outcome, or can influence its outcome. The stakeholder profiles identify the customers for this product and other stakeholders, and states their major interests in the product. Characterize business-level customers, target market segments, and different user classes, to reduce the likelihood of unexpected requirements surfacing later that cannot be accommodated because of schedule or scope constraints. For each stakeholder category, the profile includes the major value or benefits they will receive from the product, their likely attitudes toward the product, major features and characteristics of interest, and any known constraints that must be accommodated. Examples of stakeholder value include:
-
-- improved productivity
-- reduced rework 
-- cost savings	
-- streamlined business processes	
-- automation of previously manual tasks	
-- ability to perform entirely new tasks or functions	
-- conformance to current standards or regulations	
-- improved usability or reduced frustration level compared to current applications
-]
-Setjið gjarnan upp í töflu sbr námsefnið 
+| Stakeholder | Major Value | Attitudes | Major Interests | Constraints |
+|--------------|--------------|------------|------------------|--------------|
+| **Corporate Management** | Improved employee productivity; cost savings for cafeteria | Strong commitment through release 2; support for release 3 contingent on earlier results | Cost and employee time savings must exceed development and usage costs | None identified |
+| **Cafeteria Staff** | More efficient use of staff time throughout the day; higher customer satisfaction | Concern about union relationships and possible downsizing; otherwise receptive | Job preservation | Training for staff in Internet usage needed; delivery staff and vehicles needed |
+| **Patrons** | Better food selection; time savings; convenience | Strong enthusiasm, but might not use it as much as expected because of social value of eating lunches in cafeteria and restaurants | Simplicity of use; reliability of delivery; availability of food choices | Corporate intranet access, Internet access, or a mobile device is needed |
+| **Payroll Department** | No benefit; needs to set up payroll deduction registration scheme | Not happy about the software work needed, but recognizes the value to the company and employees | Minimal changes in current payroll applications | No resources yet committed to make software changes |
+| **Restaurant Managers** | Increased sales; marketing exposure to generate new customers | Receptive but cautious | Minimal new technology needed; concern about resources and costs of delivering meals | Might not have staff and capacity to handle order levels; might not have all menus online |
 
 
 ### 3.2 Forgangsröðun verkefnis 

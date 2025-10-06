@@ -37,7 +37,27 @@
 
 
 ### 1.3 Viðskiptamarkmið
-*(Skrifaðu þennan kafla)*
+BO-1: Reduce the cost of cafeteria food wastage by 40% within 6 months following initial release.
+ - Scale: Cost of food thrown away each week by cafeteria staff
+ - Meter: Examination of Cafeteria Inventory System logs
+ - Past (Baseline): 33% (2013, initial study)
+ - Goal: Less than 20%
+ - Stretch: Less than 15%
+
+BO-2: Reduce cafeteria operating costs by 15% within 12 months following initial release.
+ - Scale: Cost of operations per month, includes salary, all resources such as food and consumables, maintenance cost of equipment, lease (including electricity, water and heat). Excludes
+   equipment purchase that are not consumable.
+-  Meter: As registered in the financial accounting system
+ - Past (Baseline): $10,000 for 50 persons, breakfast and lunch 
+ - Goal: $8,500 per month 
+ - Stretch: $8,000 per month 
+
+BO-3: Increase average effective work time by 15 minutes per cafeteria-using employee per day within 6 months following initial release.
+- Scale: Average number of minutes at the desk or in meetings per day 
+- Meter: Measured by Teams activity data, including presence and meeting calendar 
+- Past (Baseline): 400 minutes a day 
+- Goal: 415 minutes a day 
+- Stretch: 420 minutes a day 
 
 ### 1.4 Árangurs mælikvarðar
 

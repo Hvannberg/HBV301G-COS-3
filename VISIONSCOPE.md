@@ -63,12 +63,12 @@ BO-3: Increase average effective work time by 15 minutes per cafeteria-using emp
 
 
 ### 1.5 Framtíðarsýn
-*(Skrifaðu þennan kafla)*
+**For** employees **who** want to order meals from the company cafeteria or from local restaurants on-line, **the Cafeteria Ordering System**
+**is** an Internet-based and smartphone-enabled application **that** will accept individual or group meal orders, process payments, 
+and trigger delivery of the prepared meals to a designated location on the Process Impact campus. 
+**Unlike** the current telephone and manual ordering processes, employees who use **the Cafeteria Ordering System** will not 
+have to go to the cafeteria to get their meals, which will save them time and will increase the food choices available to them.
 
-[Write a concise vision statement that summarizes the purpose and intent of the new product and describes what the world will be like when it 
-includes the product. The vision statement should reflect a balanced view that will satisfy the needs of diverse customers as well as those of 
-the developing organization. It may be somewhat idealistic, but it should be grounded in the realities of existing or anticipated customer markets, 
-enterprise architectures, organizational strategic directions, and cost and resource limitations ]
 ### 1.6 Viðskiptaáhætta
 
 

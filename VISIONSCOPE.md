@@ -80,10 +80,14 @@ have to go to the cafeteria to get their meals, which will save them time and wi
 ## 2. Umfang  og takmarkanir 
 ### 2.1 Helstu fídusar
 
+Fyrstu þrír fídusar eru skilgreindir í [verkefni 1](https://github.com/Hvannberg/HBV301G-COS). Aðrir eru hluti af lausn í viðauka C 
 
-FE-1:	Order and pay for meals from the cafeteria menu to be picked up or delivered.
-FE-2:	Order and pay for meals from local restaurants to be delivered.
-FE-3:	Create, view, modify, and cancel meal subscriptions for standing or recurring meal orders, or for daily special meals.
+[FE-1](https://github.com/Hvannberg/HBV301G-COS/issues/12):	Order and pay for meals from the cafeteria menu to be picked up or delivered.
+
+[FE-2](https://github.com/Hvannberg/HBV301G-COS/issues/11):	Order and pay for meals from local restaurants to be delivered.
+
+[FE-3](https://github.com/Hvannberg/HBV301G-COS/issues/10):	Create, view, modify, and cancel meal subscriptions for standing or recurring meal orders, or for daily special meals.
+
 FE-4:	Create, view, modify, delete, and archive cafeteria menus.
 FE-5:	View ingredient lists and nutritional information for cafeteria menu items.
 FE-6:	Provide system access through corporate intranet, smartphone, tablet, and outside Internet access by authorized employees
